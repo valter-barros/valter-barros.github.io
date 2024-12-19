@@ -5,10 +5,11 @@
 ## Education 	
 #### MSc, Economics with Data Science | University of Bristol (_Sep 2024 - Present_)
   - Relevant Modules:
-      - Machine Learning for Econmics
+      - Machine Learning for Economics
       - Programme Evaluation (Causal Inference)
-      - Econmetrics with Python
+      - Econometrics with Python
       - Large-Scale Data Engineering
+      - Economic Analytics
     
 #### BSc, Business Economics | University of Exeter (_Sep 2021 - Jun 2024_)
   - Relevant Modules:
@@ -16,7 +17,7 @@
       - Advanced Mathematics for Economists
       - Applied Econometrics for Business
       - Programming for Business Analytics
-      - Bitcoin, Money and Trust;
+      - Bitcoin, Money and Trust
 
 ## Work Experience
 **Data Science Intern | Motability Operations (_June 2024 - August 2024_)**
