@@ -4,14 +4,14 @@
 #### Technical Skills: Python, R, Stata
 
 ## Education 	
-- MSc, Economics with Data Science | University of Bristol (_Sep 2024 - Present_)
+#### MSc, Economics with Data Science | University of Bristol (_Sep 2024 - Present_)
   - Relevant Modules:
       - Machine Learning for Econmics
       - Programme Evaluation (Causal Inference)
       - Econmetrics with Python
       - Large-Scale Data Engineering
     
-- BSc, Business Economics | University of Exeter (_Sep 2021 - Jun 2024_)
+#### BSc, Business Economics | University of Exeter (_Sep 2021 - Jun 2024_)
   - Relevant Modules:
       - Data Science for Economics
       - Advanced Mathematics for Economists
