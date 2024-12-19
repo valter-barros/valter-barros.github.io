@@ -31,7 +31,7 @@
 
 ## Projects
 ### Quantitative Research Virtual Experience Program | JPMorgan Chase & Co.
-[Credentials]((https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._dA3nnZ3yGQWYu5Ntv_1697910699155_completion_certificate.pdf))
+[Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._dA3nnZ3yGQWYu5Ntv_1697910699155_completion_certificate.pdf)
 - Developed a time series analysis model for natural gas prices in Python using statistical techniques, combining linear regression and sinusoidal modelling to capture long-term trends and seasonal variations.
 - Analysed a book of loans using machine learning libraries in Python such as scikit-learn, estimating risk of default probability with 99% accuracy in the classification report.
 
