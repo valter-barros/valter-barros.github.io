@@ -30,7 +30,7 @@
 
 ## Projects
 ### Forage in partnership with JPMorgan Chase & Co. 
-#### Quantitative Research Virtual Experience Program |
+#### Quantitative Research Virtual Experience Program
 
 [Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._dA3nnZ3yGQWYu5Ntv_1697910699155_completion_certificate.pdf)
 - Developed a **time series analysis model** for natural gas prices in Python using statistical techniques, combining linear regression and sinusoidal modelling to capture long-term trends and seasonal variations.
