@@ -53,7 +53,7 @@
 
 ### SETM0016 | Large Scale Data Engineering for Economists
 #### AWS Scalable Data Processing Application
-- Completed [AWS Cloud Foundations course] (https://www.credly.com/badges/50297607-d33c-4f9d-b2e6-482f9fcf9043/linked_in_profile)
+- Completed the [AWS Cloud Foundations Course](https://www.credly.com/badges/50297607-d33c-4f9d-b2e6-482f9fcf9043/)
 - Implemented a distributed text processing application using AWS services (EC2, S3, DynamoDB, SQS)
 - Developed an auto-scaling infrastructure using EC2 Auto Scaling, configured with dynamic scaling policies triggered by SQS queue metrics.
 - Conducted load testing, comparing different configurations to improve performance and cost efficiency.
