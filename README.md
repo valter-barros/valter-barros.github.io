@@ -1,7 +1,6 @@
-# Valter Barros
 ## Data Scientist
 
-#### Technical Skills: Python, R, Stata
+#### Technical Skills: Python, SQL, AWS services, Snowflake, Stata, R
 
 ## Education 	
 #### MSc, Economics with Data Science | University of Bristol (_Sep 2024 - Present_)
