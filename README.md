@@ -21,13 +21,8 @@
 
 ## Work Experience
 **Data Science Intern | Motability Operations (_June 2024 - August 2024_)**
-- Measured the impact of division 1 car dealers on various KPIs by conducting **causal inference** studies using Python.
-- Developed interactive and user-friendly **dashboards** utilizing SQL and Oracle Analytics, which were later utilized by Pricing and Optimisation teams to make data-driven decisions.
-- Automated daily BAU tasks using Python and Snowflake, reducing hours of manual workload from analysts.
 
 **Technology and Data Insight Progran | Lloyd's Banking Group (_June 2023_)**
-- Conducted data analysis with customer transactions data using Python and Excel, getting insights into regional spending behaviours and financial patterns.
-- Collaborated with other students to develop a strategy and software design for a payment notification system.
 
 ## Projects
 ### Forage in partnership with JPMorgan Chase & Co. 
@@ -46,6 +41,7 @@
 
 ### ECONM0014 | Econometrics with Python Module
 #### YouTube Finance Audience Engagement Analysis
+[Link](https://github.com/valter-barros/finance-youtube-analysis)
 - Used the **YouTube Data API** to extract data from **8000** videos from the top 10 personal finance channels to Python.
 - Conducted **text analysis** with TextBlob to measure sentiment and subjectivity in video titles.
 - Implemented keyword and bigram analysis to explore the impact of popular phrases on video engagement. 
