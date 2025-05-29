@@ -22,7 +22,7 @@
 ## Work Experience
 **Data Science Intern | Motability Operations (_June 2024 - August 2024_)**
 
-**Technology and Data Insight Progran | Lloyd's Banking Group (_June 2023_)**
+**Technology and Data Insight Program | Lloyd's Banking Group (_June 2023_)**
 
 ## Projects
 ### Forage in partnership with JPMorgan Chase & Co. 
