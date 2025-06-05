@@ -2,6 +2,11 @@
 
 #### Technical Skills: Python, SQL, AWS services, Snowflake, Stata, R
 
+## Work Experience
+- Data Science Intern | Motability Operations (_June 2024 - August 2024_)
+
+- Technology and Data Insight Program  | Lloyd's Banking Group (_June 2023_) 
+
 ## Education 	
 #### MSc, Economics with Data Science | University of Bristol (_Sep 2024 - Present_)
   - Relevant Modules:
@@ -18,11 +23,6 @@
       - Applied Econometrics for Business
       - Programming for Business Analytics
       - Bitcoin, Money and Trust
-
-## Work Experience
-- Data Science Intern | Motability Operations (_June 2024 - August 2024_)
-
-- Technology and Data Insight Program  | Lloyd's Banking Group (_June 2023_) 
 
 ## Projects
 ### Forage in partnership with JPMorgan Chase & Co. 
